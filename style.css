@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: lightgreen;
+}
+#title{
+    text-align: center;
+    color: black;
+    transform: translate(-400px,10px);
+    font-size: 60px;
+}
+#mailpic{
+    position: absolute;
+    transform: translate(1350px,-05px);
+    width: 45px;
+    height: 30px;
+}
+#con{
+    position: absolute;
+    transform: translate(1330px,-45px);
+    background-color: sienna;
+    color: yellow;
+}
+#dep{
+    position: absolute;
+    transform: translate(230px,30px);
+    font-size: 20px;
+}
+#profilephoto{
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    transform: translate(15px,-55px);
+}
+#instapic{
+    position: absolute;
+    transform: translate(1345px,50px);
+    width: 50px;
+    height: 40px;
+}
+#skills{
+    position: absolute;
+    transform: translate(50px,300px);
+}
+#h1{
+    color: saddlebrown;
+}
+#h2{
+    color: saddlebrown;
+}
